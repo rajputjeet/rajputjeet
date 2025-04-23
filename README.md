@@ -4,8 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** with experience in building robust and scalable solutions. I specialize in **Java**, **Kotlin**, and **Dart**, and I'm currently diving deeper into the exciting world of **Spring Boot**.
 
-[(https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,idea,spring,docker,hibernate,postgres)]
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,idea,spring,docker,hibernate,postgres)](https://skillicons.dev)
 
 
 <!--
