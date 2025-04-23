@@ -3,7 +3,8 @@
 # 👋 Hi there, I'm Jeet Rajput!
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** with experience in building robust and scalable solutions. I specialize in **Java**, **Kotlin**, and **Dart**, and I'm currently diving deeper into the exciting world of **Spring Boot**.
-(https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
+
+https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg
 
 
 <!--
